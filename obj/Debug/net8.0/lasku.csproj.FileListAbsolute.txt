@@ -1,0 +1,14 @@
+/Users/s2401556/koulunUlkopuolella /lasku/bin/Debug/net8.0/lasku
+/Users/s2401556/koulunUlkopuolella /lasku/bin/Debug/net8.0/lasku.deps.json
+/Users/s2401556/koulunUlkopuolella /lasku/bin/Debug/net8.0/lasku.runtimeconfig.json
+/Users/s2401556/koulunUlkopuolella /lasku/bin/Debug/net8.0/lasku.dll
+/Users/s2401556/koulunUlkopuolella /lasku/bin/Debug/net8.0/lasku.pdb
+/Users/s2401556/koulunUlkopuolella /lasku/obj/Debug/net8.0/lasku.GeneratedMSBuildEditorConfig.editorconfig
+/Users/s2401556/koulunUlkopuolella /lasku/obj/Debug/net8.0/lasku.AssemblyInfoInputs.cache
+/Users/s2401556/koulunUlkopuolella /lasku/obj/Debug/net8.0/lasku.AssemblyInfo.cs
+/Users/s2401556/koulunUlkopuolella /lasku/obj/Debug/net8.0/lasku.csproj.CoreCompileInputs.cache
+/Users/s2401556/koulunUlkopuolella /lasku/obj/Debug/net8.0/lasku.dll
+/Users/s2401556/koulunUlkopuolella /lasku/obj/Debug/net8.0/refint/lasku.dll
+/Users/s2401556/koulunUlkopuolella /lasku/obj/Debug/net8.0/lasku.pdb
+/Users/s2401556/koulunUlkopuolella /lasku/obj/Debug/net8.0/lasku.genruntimeconfig.cache
+/Users/s2401556/koulunUlkopuolella /lasku/obj/Debug/net8.0/ref/lasku.dll
